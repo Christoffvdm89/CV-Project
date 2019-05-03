@@ -249,7 +249,7 @@ transform: translateX(-50%);
 
 .split.left {
 left:0;
-background:url('images/accountant2.1.jpg') center center no-repeat;
+background:url('../images/accountant2.1.jpg') center center no-repeat;
 background-size: cover;
 background-attachment: fixed;
 
@@ -266,7 +266,7 @@ background-attachment: fixed;
 
 .split.right {
  right: 0;
- background:url('images/webdeveloper2.5.jpg') center center no-repeat;
+ background:url('../images/webdeveloper2.5.JPG') center center no-repeat;
 background-size: cover;
 background-attachment: fixed;
 
@@ -329,7 +329,7 @@ background-attachment: fixed;
   width: 100%;
   height: 70%;
   overflow-y: hidden;
-  background:url('images/webdeveloper1.1.jpg') center center no-repeat;
+  background:url('../images/webdeveloper1.1.jpg') center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   
@@ -374,7 +374,7 @@ background-attachment: fixed;
   width: 100%;
   height: 100%;
   overflow-y: hidden;
-  background:url('images/webdeveloper3.1.jpg') center center no-repeat;
+  background:url('../images/webdeveloper3.1.jpg') center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   
@@ -396,7 +396,7 @@ background-attachment: fixed;
   width: 100%;
   height: 100%;
   overflow-y: hidden;
-  background:url('images/webdeveloper1.1.jpg') center center no-repeat;
+  background:url('../images/webdeveloper1.1.jpg') center center no-repeat;
   background-size: cover;
   background-attachment: fixed;
   
@@ -474,22 +474,7 @@ background-size: cover;
   white-space: pre-wrap;
 }
 
-.split.left {
-left:0;
-background:url('images/accountant2.1.jpg') center center no-repeat;
-background-size: cover;
-background-attachment: fixed;
 
-}
-
-.split.left:before {
-  position: absolute;
-  content:"";
-  width: 100%;
-  height: 100%;
-  background: var(--left-bg-color);
-
-}
  
 #button1{
   font-size: 1.25rem;
