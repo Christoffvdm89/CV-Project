@@ -81,6 +81,16 @@ h2{
   white-space: nowrap;
 }
 
+#item300{
+  font-size: 1.25rem;
+  color:#F0F1F2;
+  position: absolute;
+  left: 33s%;
+  top:30%;
+  
+  white-space: nowrap;
+}
+
 #item4{
   font-size: 1.25rem;
   color:#F0F1F2;
@@ -163,6 +173,9 @@ h2{
   
   white-space: nowrap;
 }
+
+
+
 #item12{
   font-size: 1.25rem;
   color:#67696B;
@@ -539,7 +552,7 @@ background-attachment: fixed;
   padding: 10%;
   margin: 20px;
   /* background: rgba(86, 95, 81,0.4); */
-  transform: translate(+80%);
+  transform: translate(+70%);
 }
 
 
