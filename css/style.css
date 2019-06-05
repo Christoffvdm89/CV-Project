@@ -168,8 +168,8 @@ h2{
   font-size: 1.25rem;
   color:#67696B;
   position: absolute;
-  left: 25%;
-  top:40%;
+  left: 35%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -180,8 +180,8 @@ h2{
   font-size: 1.25rem;
   color:#67696B;
   position: absolute;
-  left: 35%;
-  top:40%;
+  left: 45%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -190,8 +190,8 @@ h2{
   font-size: 1.25rem;
   color:#67696B;;
   position: absolute;
-  left: 45%;
-  top:40%;
+  left: 55%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -200,8 +200,8 @@ h2{
   font-size: 1.25rem;
   color:#67696B;;
   position: absolute;
-  left: 55%;
-  top:40%;
+  left: 65%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -211,8 +211,8 @@ h2{
   font-size: 1.25rem;
   color:#67696B;;
   position: absolute;
-  left: 65%;
-  top:40%;
+  left: 75%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -251,7 +251,7 @@ h2{
   color:#F0F1F2;
   position: absolute;
   left: 5%;
-  top:35%;
+  top:30%;
   
   white-space: nowrap;
 }
@@ -260,7 +260,7 @@ h2{
   color:#F0F1F2;
   position: absolute;
   left: 5%;
-  top:40%;
+  top:35%;
   
   white-space: nowrap;
 }
@@ -270,7 +270,7 @@ h2{
   color:#F0F1F2;
   position: absolute;
   left: 5%;
-  top:45%;
+  top:40%;
   
   white-space: nowrap;
 }
@@ -281,7 +281,7 @@ h2{
   color:#F0F1F2;
   position: absolute;
   left: 5%;
-  top:50%;
+  top:45%;
   
   white-space: nowrap;
 }
@@ -291,7 +291,7 @@ h2{
   color:#F0F1F2;
   position: absolute;
   left: 5%;
-  top:55%;
+  top:50%;
   
   white-space: nowrap;
 }
@@ -362,7 +362,7 @@ background-attachment: fixed;
 
 .split.right {
  right: 0;
- background:url('../images/webdeveloper2.5.JPG') center center no-repeat;
+ background:url('../images/webdeveloper2.10.JPG') center center no-repeat;
 background-size: cover;
 background-attachment: fixed;
 
@@ -652,7 +652,7 @@ background-size: cover;
   top:41%;
   border: 2px solid var(--right-bg-color);
   white-space: nowrap;
-  background: rgba(86, 95, 81,0.4);
+  background: rgba(86, 95, 81);
 }
 
 @media(max-width: 1000px){
